@@ -5,6 +5,6 @@ Here we keep track of technical documentation in our group through README.md fil
 ```{toctree}
 :maxdepth: 1
 
-install
-contribute
+walle.md
+github.md
 ```

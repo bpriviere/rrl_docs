@@ -1,0 +1,7 @@
+/* Kill borders only for tables that *you* mark as noborder */
+table.noborder,
+table.noborder td,
+table.noborder th {
+  border: none !important;
+  box-shadow: none !important;
+}
