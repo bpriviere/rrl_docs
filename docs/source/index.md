@@ -1,6 +1,11 @@
-# Documentation for NYU's Center for Robotics and Embodied Intelligence (CREO)
+# Documentation for Riviere Robot Lab (RRL)
 
 ```{image} ./_static/NYU.png
+:alt: NYU
+:width: 300px
+:align: left
+```
+```{image} ./_static/rrl.png
 :alt: NYU
 :width: 300px
 :align: left
@@ -11,8 +16,7 @@
 Welcome! 
 
 
-The purpose of this documentation page is to collect information on NYU's Center for Robotics and Embodied Intelligence (CREO) such as inventory and README's for robots and equipment. 
-The docs could also be extended for system-level things like onboarding, safety, etc.
+The purpose of this documentation page is to collect internal information on Riviere Robot Lab (RRL). 
 
 
 The docs page is built on [Sphinx](https://www.sphinx-doc.org/en/master/), which is a documentation generator. 
@@ -22,9 +26,9 @@ The docs are written in [MyST](https://myst-parser.readthedocs.io/en/latest/), a
 ```{toctree}
 :maxdepth: 2
 
-getting_started/index
 onboarding
 safety
-inventory
-items/index
+contribute/index
+inventory/index
+group_meetings/index
 ```

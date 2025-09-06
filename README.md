@@ -1,6 +1,6 @@
 # README
 
-This is a documentation repository for NYU's Center for Embodied Intelligence and Robotics. More information on doc page. 
+This is a documentation repository for the Riviere Robot Lab (RRL). More information on doc page. 
 
 ## Doc page (hosted here temporarily): 
 ```
