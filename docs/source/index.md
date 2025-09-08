@@ -26,7 +26,6 @@ The docs are written in [MyST](https://myst-parser.readthedocs.io/en/latest/), a
 
 onboarding
 safety
-inventory
 readmes/index
 group_meetings/index
 lab_conduct
