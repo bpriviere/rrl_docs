@@ -7,4 +7,5 @@ Here we keep track of group meetings
 :maxdepth: 1
 
 2025_09_04.md
+2025_09_11.md
 ```
