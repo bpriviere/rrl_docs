@@ -7,4 +7,5 @@ Here we keep track of technical documentation in our group through README.md fil
 
 walle.md
 github.md
+dual_boot.md
 ```
